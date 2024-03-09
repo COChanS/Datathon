@@ -1,3 +1,3 @@
 # Datathon
-Submission for WiDS Datathon 2024 Challenge #1
+Attempts for WiDS Datathon 2024 Challenge #1
 Equity in Healthcare
